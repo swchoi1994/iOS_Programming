@@ -1,11 +1,11 @@
 {
   "images" : [
     {
-      "filename" : "frame.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "camvell_studio.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
